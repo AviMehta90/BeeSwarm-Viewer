@@ -2,6 +2,10 @@
 
 This project demonstrates an interactive data visualization using D3.js, showcasing a beeswarm chart that dynamically represents various aspects of global development. The visualization allows users to explore data across different countries, years, and development indicators, providing insights into trends and patterns in global development metrics.
 
+## Overview
+
+![Global Development Beeswarm Chart](images/utils/mainview.png)
+
 ## Features
 
 - **Dynamic Beeswarm Chart**: Visualize global development data as an interactive beeswarm chart.
