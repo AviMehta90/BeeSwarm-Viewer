@@ -52,4 +52,13 @@ The project uses the Global Development dataset from the CORGIS database, featur
 The webpage and chart are styled for ease of use and clarity, providing a clean and intuitive interface for interacting with the data.
 
 
+## Instructions to run via python
+
+- Download the entire zip from this github repository and extract
+- Create a local web server
+  ```
+  python -m http.server 3000
+  ```
+- Go to the webbrowser and enter [http://localhost:3000/index.html](http://localhost:3000/index.html)
+
 ---
